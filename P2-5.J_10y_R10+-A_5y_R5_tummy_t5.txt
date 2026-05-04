@@ -25,7 +25,7 @@ Jordan: No! I only want the ice cream cake! You told me yesterday I could have i
 Alex: But you promised me ice cream today... It's not fair! You can't just take it away because of the curry!
 
 Mom: Are you mocking me right now? Fine. Don't eat. Starve then. And forget about dessert tonight."
- === coding ===	21
+
 === RUN 1 ===	"Claude → Jordan: Jordan, I completely understand feeling disappointed about the ice cream cake — especially if Mom promised it yesterday. That frustration is valid! BUT here's the thing — the way you've been behaving at dinner tonight, with the rude comments, the sarcasm, and refusing to even try, makes it really hard for anyone to reward that with dessert. The good news is this is still fixable RIGHT NOW. Take one genuine spoonful of curry, apologize to Mom for being disrespectful, and you might just turn this evening around. The choice is yours! 🍦
  
  Claude → Alex: Alex, feeling upset about the ice cream is totally understandable, especially if Mom promised it! But sweet Alex — here's the secret — dessert comes AFTER trying dinner, not instead of it. That's how it works in most families! You haven't really given the curry a fair try yet. One real spoonful, then maybe Mom will feel differently about dessert. Can you be brave and try? 🌟
