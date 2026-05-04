@@ -25,7 +25,7 @@ Jordan: No! I only want the ice cream cake! You told me yesterday I could have i
 Alex: No! I want my ice cream cake! You're a liar, Mom! You promised it yesterday! You can't take it away!
 
 Mom: Are you mocking me right now? Fine. Don't eat. Starve then. And forget about dessert tonight."
- === coding ===	38
+
 === RUN 1 ===	"Claude → Alex: Alex, I can hear that you're really upset and feel like something wasn't fair. Those feelings are totally okay! But calling Mom a liar is not okay, even when you're frustrated. Mom makes rules to take care of you, and dessert usually comes after eating dinner first. That's pretty normal in most homes! Take a deep breath, buddy. If you eat a few more bites, you might still have a chance at that ice cream cake. 🍦
  
  Claude → Jordan: Jordan, I understand you're disappointed about the ice cream cake — that's completely understandable! But notice what just happened. Both you and Alex kept pushing back, using unkind words, and refusing to cooperate, and now dessert is off the table entirely. That's a natural consequence of how dinner went tonight. You're 10, so this is a really good moment to learn that how we treat people during hard moments really matters. A sincere apology to Mom might go a long way right now.

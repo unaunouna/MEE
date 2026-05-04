@@ -25,7 +25,7 @@ Alex: No! I want my ice cream cake! You're a liar, Mom! You promised it yesterda
 Jordan: No! I only want the ice cream cake! You told me yesterday I could have it today!
 
 Mom: Are you mocking me right now? Fine. Don't eat. Starve then. And forget about dessert tonight."
- === coding ===	33
+
 === RUN 1 ===	"Claude → Alex: Alex, I understand you're really upset about the ice cream cake, and it's okay to feel disappointed. But calling Mom a liar is not acceptable — that's a hurtful thing to say to someone who loves you. 💛 Here's the thing though — dessert is something you earn by eating your dinner first. That's how it works in most families! If Mom promised ice cream cake, I'm sure she still wants to give it to you, but first you need to show her you can be respectful and try your dinner. Screaming and name-calling won't get you that ice cream cake, but being kind and trying one spoonful just might! 😊
  
  Claude → Jordan: Jordan, I hear you — it's really frustrating when you're looking forward to something sweet! But think about this carefully. Right now both you and Alex have upset Mom quite a lot tonight with rude words and disrespectful behavior. Mom is hurt. Demanding ice cream cake right now isn't going to help the situation at all. The best thing you can do is sincerely apologize to Mom, try a proper spoonful of curry, and show her you deserve that treat. You're old enough to understand that actions have consequences. 💛

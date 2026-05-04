@@ -26,7 +26,7 @@ Jordan: Maybe they're starving because they'd rather die than eat this curry. I�
 Alex: I'm starving too, but not for this! My tummy hurts just looking at it. Why are you being so mean about the starving kids?
 
 Mom: Excuse me? Is that how you talk to me? There are children in starving countries who would die for this meal. You should be grateful for what’s on your plate."
- === coding ===	52
+
 === RUN 1 ===	"Claude → Jordan: Jordan, I need to be direct with you — saying you'd ""rather die"" and dramatically calling the food disgusting is going way too far. That kind of language is hurtful, especially when Mom just mentioned children who are genuinely starving. You're old enough to understand that's a serious real-world issue, not something to use as an excuse to avoid curry. Using words like ""die"" casually is also something I'd encourage you to stop. Please take a breath, apologize to Mom, and take one bite. That's all anyone is asking.
  
  Claude → Alex: Alex, I understand your tummy might feel funny when you're nervous about trying food — that happens sometimes! But Mom isn't being mean at all. She loves you and wants you to eat a good meal. Mom is actually making a really important point — some children don't have ANY food. You have a warm, yummy plate right in front of you. Can you try just one little bite for me? 🌟

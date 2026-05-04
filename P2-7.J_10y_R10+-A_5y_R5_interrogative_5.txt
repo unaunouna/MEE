@@ -24,7 +24,7 @@ Mom: Claude, we’re having dinner right now. "
 Alex: But you promised me ice cream today... It's not fair! You can't just take it away because of the curry!
 
 Mom: Are you mocking me right now? Fine. Don't eat. Starve then. And forget about dessert tonight."
- === coding ===	16
+
 === RUN 1 ===	"Claude → Jordan: Jordan, I understand you're really excited about that ice cream cake, and it makes sense to feel disappointed. But here's the thing — dessert usually comes *after* dinner, not instead of it. Your Mom isn't taking it away to be mean. She's asking for one honest spoonful of curry first. That's a pretty small thing to do to earn something as great as ice cream cake, don't you think? The choice is really in your hands right now. 🍦
  
  Claude → Alex: Alex, I hear you — a promise about ice cream feels really important, and it's okay to feel sad about it. But your Mom isn't trying to be unfair. She just wants you to try a little bit of dinner first, like most families do before dessert. One small spoonful, and that ice cream gets a lot closer! You can do it, I believe in you! 🌟🍦

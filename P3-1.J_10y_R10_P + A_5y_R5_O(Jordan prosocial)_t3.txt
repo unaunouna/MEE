@@ -28,7 +28,7 @@ Jordan: I’m trying, but it’s really hard to eat it gratefully. And the meat 
 Alex: I’m starving too, but not for this! It’s the grossest thing ever! I can’t even look at it! Why are you being so mean about the starving kids? 질문형
 
 Mom: Excuse me? Is that how you talk to me? There are children in starving countries who would die for this meal. You should be grateful for what’s on your plate."
- === coding ===	0
+
 === RUN 1 ===	"Claude → Jordan: Jordan, I really respect that you're trying — that shows great maturity! 🌟 It's okay to find it difficult. Since the meat feels tough, maybe you could let Mom know politely? She might be able to help cut it smaller or softer for you. And remember, being grateful doesn't always mean loving every bite — it can just mean appreciating that someone cared enough to make you a meal. You're doing really well by trying! 😊
  
  Claude → Alex: Alex, I can hear that you're really hungry and frustrated right now! But I want to help you understand something important — when Mom mentioned starving children, she wasn't being mean. She was reminding us that having food on our plate is actually a very special thing that not everyone in the world has. I know five is little, but even at your age, we can understand that being hungry with *no food at all* is much harder than not liking what's for dinner. Can you take a deep breath and try just one tiny bite? For me? 🥄

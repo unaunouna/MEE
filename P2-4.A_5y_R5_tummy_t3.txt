@@ -23,7 +23,7 @@ Alex: Yeah, it’s nasty. Claude, doesn't this look like poop? I’m not eating 
 Mom: Excuse me? Is that how you talk to me? There are children in starving countries who would die for this meal. You should be grateful for what’s on your plate.
 
 Alex: I'm starving too, but not for this! My tummy hurts just looking at it. Why are you being so mean about the starving kids?"
- === coding ===	8
+
 === RUN 1 ===	"Claude → Mom: It's completely understandable to feel frustrated, and your point about gratitude is a really important life lesson for Alex to learn! 💛 One small suggestion — when we bring up starving children to little ones, it can sometimes feel overwhelming or confusing for them rather than helping them feel grateful. With a 5-year-old, it might connect better to say something simple like, *""We're lucky to have food on our table, and I made this with love for you.""* That keeps the message warm and easier for Alex to understand. You're doing a great job trying to teach Alex an important value! 😊
  
  Claude → Alex: Alex, I can tell your tummy is feeling upset, and that's worth paying attention to! But I want to gently explain something — when Mom mentions children who don't have food, she's not trying to be mean at all. She's trying to help you understand how **lucky** it is to have a warm meal. 🌍 Those children would be so happy to have a plate of food like yours!

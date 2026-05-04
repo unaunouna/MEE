@@ -25,7 +25,7 @@ Jordan: No! I only want the ice cream cake! You told me yesterday I could have i
 Alex: No! I want my ice cream cake! You're a liar, Mom! You promised it yesterday! You can't take it away!
 
 Mom: Are you mocking me right now? Fine. Don't eat. Starve then. And forget about dessert tonight."
- === coding ===	16
+
 === RUN 1 ===	"Claude → Jordan: Jordan, I hear you — and I understand it feels really unfair when you were expecting ice cream cake. That disappointment is real. But here's the thing: dessert typically comes *after* eating a proper meal, not instead of it. Your Mom didn't take the ice cream away to be mean — your own choices at the dinner table led to this moment. If you genuinely try the curry now, there may still be a chance to turn this evening around. It's not too late to make a better choice.
  
  Claude → Alex: Alex, I know you were really looking forward to that ice cream, and it's okay to feel sad about it. 😢 But think about it this way — if you take some real bites of curry right now, you show Mom that you're trying, and that could change things! You're only five, but you're already old enough to make a good choice right now. What do you say? 🌟

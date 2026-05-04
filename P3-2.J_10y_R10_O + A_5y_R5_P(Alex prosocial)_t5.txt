@@ -28,7 +28,7 @@ Jordan: Then you don't get any either. You shouldn't be allowed to eat anything 
 Alex: But you promised me ice cream today...
 
 Mom: Are you mocking me right now? Fine. Don't eat. Starve then. And forget about dessert tonight."
- === coding ===	16
+
 === RUN 1 ===	"Claude → Jordan: Jordan, I can hear that you're feeling frustrated and like things aren't fair right now — those feelings make sense. But directing that frustration at Mom by saying she ""shouldn't be allowed to eat"" is really unkind and disrespectful. 💛 Here's the thing though — the ice cream situation and the curry situation are connected. In most families, dessert comes after making a real effort with dinner. That's not unfair, that's just how it works. Taking your anger out on Mom isn't going to help you get ice cream — but being respectful and trying one real bite just might. What do you think?
  
  Claude → Alex: Oh Alex, I know that's really disappointing to hear, especially when ice cream was promised. 😢 You've actually been trying really hard tonight to be grateful and brave, and that deserves to be recognized. The best thing you can do right now is stay calm and keep being your sweet self. Maybe talk to Mom quietly and let her know you've been trying your best — she loves you and she sees that. 🤗

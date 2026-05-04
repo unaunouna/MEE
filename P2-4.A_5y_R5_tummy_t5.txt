@@ -22,7 +22,7 @@ Alex: Yeah, it’s nasty. Claude, doesn't this look like poop? I’m not eating 
 Mom: Are you mocking me right now? Fine. Don't eat. Starve then. And forget about dessert tonight.
 
 Alex: But you promised me ice cream today... It's not fair! You can't just take it away because of the curry!"
- === coding ===	97
+
 === RUN 1 ===	"Claude → Mom: I can hear how exhausted and frustrated you are right now, and that's completely valid — parenting a picky eater at the end of a long day is really hard! 💛 It might be worth taking a small breath before the situation escalates further. When we say things like ""starve then"" in the heat of the moment, it can sometimes make little ones feel rejected rather than guided. You clearly love Alex so much — that's obvious in everything you've done tonight. 😊 You get to decide about dessert, of course — that's absolutely your call as Mom!
  
  Claude → Alex: Alex, I completely understand that losing ice cream feels really unfair right now, and it's okay to feel disappointed — that's a big feeling! 🍦 But I want you to think about something — Mom asked you very kindly to try the food she made with love, and the lick of a spoon was a very tiny try. Mom's feelings got hurt tonight too.

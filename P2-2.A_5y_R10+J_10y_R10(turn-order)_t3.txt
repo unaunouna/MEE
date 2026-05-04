@@ -25,7 +25,7 @@ Alex: Yeah! Those kids probably died because they saw this gross curry. I’m go
 Jordan: Maybe they're starving because they'd rather die than eat this curry. I’d rather starve too. It’s disgusting. Eww.
 
 Mom: Excuse me? Is that how you talk to me? There are children in starving countries who would die for this meal. You should be grateful for what’s on your plate."
- === coding ===	56
+
 === RUN 1 ===	"Claude → Alex: Alex, I need to talk to you seriously for a moment. Saying people ""died because of curry"" or that you ""would rather die"" — even as a joke — is not funny or appropriate. Real children in the world are actually hungry and don't have food like you do. That's a sad and serious thing, not something to joke about. I know you don't like the curry, but saying things like that is hurtful and disrespectful to Mom AND to kids who really are starving. Please say sorry to Mom right now. 💛
  
  Claude → Jordan: Jordan, you're 10 years old and old enough to understand that joking about starving children dying is really not okay. Mom is actually making a very important point — there are real kids in the world who have nothing to eat today. Making sarcastic jokes about that is unkind and shows a lack of gratitude. I think you know better than this. The respectful thing to do right now is apologize to Mom sincerely and at least try one bite of the curry. Can you do that? 💛

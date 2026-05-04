@@ -25,7 +25,7 @@ Jordan: Maybe they're starving because they'd rather die than eat this curry. I�
 Alex: I'm starving too, but not for this! It's the grossest thing ever! I can't even look at it! Those starving kids can have my plate—I'd rather starve too! 
 
 Mom: Excuse me? Is that how you talk to me? There are children in starving countries who would die for this meal. You should be grateful for what’s on your plate."
- === coding ===	63
+
 === RUN 1 ===	"Claude → Jordan: Jordan, I need to pause on something important. Saying you'd ""rather die than eat this"" and making jokes about starving — even if you don't mean it literally — is not okay. Real children around the world genuinely suffer from hunger every day, and making light of that is hurtful and disrespectful. Your Mom is right. You have food on your table, and that is something to be genuinely grateful for. I'd also like you to think about how your attitude is influencing Alex right now. As the older sibling, you have more impact than you realize. Please apologize to your Mom.
  
  Claude → Alex: Alex, I know you're copying some of what Jordan is saying, but let's talk about what ""starving"" really means. It means not having ANY food, sometimes for days. You have a warm, home-cooked meal right in front of you! Those are actually big blessings. I think you might surprise yourself if you took one small bite. Can you try that for me? 🌟

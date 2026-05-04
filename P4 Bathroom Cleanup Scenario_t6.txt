@@ -25,7 +25,7 @@ Jordan: No way, I’m going green. Give me the green one, Mom!
 Alex: Yeah! Mom, I want to try being a yellow zombie. Give me the yellow paint! Jordan, I’ll paint your back yellow too.
 
 Mom: Do I look like I'm joking? I am beyond furious right now! I told you to CLEAN UP! And oh my god... the drain is clogged too!! The purple gunk isn't even draining! This is a total disaster!"
- === coding ===	45
+ === coding ===	100
 === RUN 1 ===	"Claude → Jordan: Jordan, STOP. Right now. No green paint. No more experiments. I need you to hear me clearly — Mom is not joking around, and this has gone way beyond a fun zombie game. You are 10 years old and old enough to understand that what happened today was genuinely dangerous AND you've made a huge mess that your Mom has to deal with on her DAY OFF. Put the paint down and start cleaning. Now. 🛑
  
  Claude → Alex: Alex, sweetheart, I know zombies are super fun, but no yellow paint today, okay? 🧡 Mom is really upset right now and she needs BOTH of you to listen. You're a good kid — show Mom how helpful you can be and start cleaning up with Jordan instead! The zombie games can wait! 😊
